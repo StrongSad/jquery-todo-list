@@ -34,6 +34,9 @@ div {
 	background-color: white;
 }
 
+
+
+
 @media only screen and (min-width = 600px) {
     /* For mobile phones: */
     body {
@@ -41,6 +44,8 @@ div {
         height: 100%;
     }
 }
+
+
 
 
 
