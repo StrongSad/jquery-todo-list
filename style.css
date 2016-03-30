@@ -1,0 +1,51 @@
+body {
+	background-color: teal;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#cleaList{
+	margin-left: 15px;
+}
+
+li {
+	list-style-type: none;
+	margin: 10px;
+	text-align: left;
+}
+
+span {
+	margin-right: 2.75%;
+	border: 1px solid darkblue;
+	padding: 4px;
+	border-radius: 5px;
+}
+
+span:hover{
+
+	background-color: pink;
+}
+
+div {
+	border: 2px solid lightpink ;
+	margin-top: 15%;
+	border-radius: 15px;
+	background-color: white;
+}
+
+@media only screen and (min-width = 600px) {
+    /* For mobile phones: */
+    body {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+
+
+
+
+
+
